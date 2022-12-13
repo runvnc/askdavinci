@@ -1,0 +1,14 @@
+{
+  "name": "askdavinci",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "askdavinci.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "trim-newlines": "^4.0.2"
+  }
+}
